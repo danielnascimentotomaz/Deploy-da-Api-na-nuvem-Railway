@@ -1,0 +1,1 @@
+web: java -jar target/Deploy-da-Api-na-nuvem-Railway-0.0.1-SNAPSHOT.jar
